@@ -31,7 +31,7 @@ body {
 }
 
 .hero {
-    min-height: calc(100vh - 2rem);
+    min-height: calc(100vh - 6rem);
     background-image: linear-gradient(
         to bottom,
         #89909b,
@@ -41,6 +41,7 @@ body {
     position: relative;
     flex-direction: column;
     padding-left: 20%;
+    padding-top: 5%;
     justify-content: center;
 }
 
@@ -58,6 +59,7 @@ body {
 
 .hero p {
     font-size: 1.3rem;
+    margin-bottom: 5%;
 }
 
 .hero p span {
@@ -107,6 +109,10 @@ body {
 .focus p {
     margin: 0 20% 5rem;
     font-size: 1.3rem;
+}
+
+.focus a {
+    color: dodgerblue;
 }
 
 .tools {

@@ -6,8 +6,8 @@ export default () => (
         <ul>
             <li><a href="#focus">focus</a></li>
             <li><a href="#tools">skills</a></li>
-            <li><a href="#">projects</a></li>
-            <li><a href="#">contact me</a></li>
+            <li><a href="#contact">work</a></li>
+            <li><a href="#contact">contact me</a></li>
         </ul>
     </nav>
 
