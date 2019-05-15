@@ -18,7 +18,9 @@
     "gatsby-plugin-react-helmet": "^3.0.12",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "ts-pnp": "^1.1.2",
+    "typescript": "^3.4.5"
   },
   "devDependencies": {
     "prettier": "^1.17.0"
