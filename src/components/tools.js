@@ -6,9 +6,12 @@ export default () => (
         <div className="tool tool-left">
             <h2>Tools I constatly use</h2>
             <p>
-                Bibendum praesent per dolor luctus rhoncus ornare fames suspendisse eu, lacinia
-                vulputate eget iaculis nulla urna gravida habitant sapien fringilla, cras duis
-                malesuada ac penatibus maximus quisque curae <span>more about it.</span>
+                My experiences with software development mainly involve Frontend
+                programming with HTML, CSS and JavaScript using libraries and
+                frameworks such as AngularJS, React and Jquery. I also have
+                previous experience developing with Java and, more recently, with
+                PHP which I've built a theme for WordPress and also a Web based
+                management system for a construction company.
             </p>
             <div className="tools-img"></div>
         </div>
@@ -16,9 +19,11 @@ export default () => (
         <div className="tool tool-right">
             <h2>Developing new skills</h2>
             <p>
-                Integer scelerisque cubilia tincidunt condimentum praesent facilisis lectus est,
-                habitant semper libero imperdiet nostra rutrum fermentum senectus nisl, non torquent
-                mollis faucibus venenatis neque dapibus. <span>more about it.</span>
+                Through this website and some of my personal projects I'm looking
+                to build and improve skills related to more modern technologies
+                and practices using Gatsby, GraphQL, Node and React Nactive.
+                You can check the source code of some of these projects on my&nbsp;
+                <a href="https://github.com/vpalmeira" rel="noopener noreferrer" target="_blank">GitHub</a>.
             </p>
             <div className="tools-img"></div>
         </div>
