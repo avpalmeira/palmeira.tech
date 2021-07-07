@@ -21,6 +21,6 @@ export default () => (
             <a href={linkedInProfile}><FontAwesomeIcon className="icon" icon={faLinkedin} /></a>
             <a href={githubProfile}><FontAwesomeIcon className="icon" icon={faGithub} /></a>
         </div>
-        <p>‍🔨 Portfolio Website under construction. ‍🔨</p>
+        <p>‍🔨 under construction. ‍🔨</p>
     </div>
 )
