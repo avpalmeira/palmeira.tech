@@ -7,7 +7,7 @@ module.exports = {
         siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
         manifestSettings: {
           // Path is relative to the root
-          favicon: "./content/images/favicon.ico",
+          favicon: "./content/images/favicon.png",
           // Used in manifest.json
           siteName: "My Minimal Portfolio",
           shortName: "Portfolio",

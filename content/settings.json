@@ -1,23 +1,23 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://palmeira.tech",
+    "title": "The Portfolio Website of Antonio Palmeira.",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "description": "Full-stack Software Engineer",
+    "author": "Antonio Palmeira",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
+      "github": "https://github.com/avpalmeira",
+      "medium": "https://medium.com",
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/avpalmeira/",
+      "mail": "mailto:antonio@palmeira.tech"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Palmeira.tech" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
