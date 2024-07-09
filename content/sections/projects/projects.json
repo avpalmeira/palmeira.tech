@@ -2,47 +2,44 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "1% Everyday",
+      "description": "Inspired by the Kaizen philosophy of continuously improving, I try to apply the \"improve at least 1% everyday\" to everything that I'm willing to do. Keeping a steady movement towards goals, even if it seems slow in the short term, in the long term things will be clearer and attainable.",
+      "tags": [],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/tortoise-and-hare.jpg",
+        "alt": "Tortoise and hare",
+        "linkTo": ""
       },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+      "links": []
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "title": "Don't Be Afraid To Break Things",
+      "description": "To make experimentation and innovation possible, build an environment and have tools in place where things can break, and, when it does, you'll be able mitigate the issues or quickly revert the changes to a safe version. For that to happen, automated tests, a version control system, observability and automation are indispensable.",
+      "tags": [],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/Think-Different.jpg",
+        "alt": "Think Different",
+        "linkTo": ""
       },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+      "links": []
+    },
+    {
+      "visible": true,
+      "title": "No Over-Engineering",
+      "description": "Although I'm constantly learning new concepts and technologies to understand when and where these could improve what I'm currently working on or will build eventually, I always aim for simplicity when applying my knowledge to building software or designing a user interface. Only add layers of complexity when they provenly will bring value to what you're building.",
+      "tags": [],
+      "image": {
+        "src": "../../images/complex.png",
+        "alt": "Complex machine",
+        "linkTo": ""
+      },
+      "links": []
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "See my projects on Github",
+    "url": "https://github.com/avpalmeira"
   }
 }

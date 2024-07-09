@@ -1,59 +1,66 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "React",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/react.png",
+        "alt": "React"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Next.js",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/Next_js.png",
+        "alt": "Next.js"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "TypeScript",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/typescript.png",
+        "alt": "TypeScript"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Node.js",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/nodejs.png",
+        "alt": "Node.js"
       }
     },
     {
-      "label": "Animations",
+      "label": "Python",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/python.png",
+        "alt": "Python"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "PostgreSQL",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/postgre.png",
+        "alt": "PostgreSQL"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Docker",
+      "image": {
+        "src": "../../images/docker.png",
+        "alt": "Docker"
+      }
+    },
+    {
+      "label": "Gatsby",
       "image": {
         "src": "../../images/gatsby.png",
-        "alt": ""
+        "alt": "Gatsby"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Figma",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/figma.png",
+        "alt": "Figma"
       }
     }
   ],
