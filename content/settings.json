@@ -22,8 +22,8 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Philosophy", "url": "/#features" },
-        { "label": "Contact", "url": "/#github" }
+        { "label": "Philosophy", "url": "/#work" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
