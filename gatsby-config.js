@@ -4,7 +4,7 @@ module.exports = {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
         // Used for sitemap generation
-        siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+        siteUrl: "https://palmeira.tech/",
         manifestSettings: {
           // Path is relative to the root
           favicon: "./content/images/favicon.png",
@@ -20,6 +20,7 @@ module.exports = {
         blogSettings: {
           // Defines the slug for the blog listing page
           path: "/blog",
+          entityName: "Projects",
           usePathPrefixForArticles: false,
         },
         googleAnalytics: {

@@ -4,7 +4,7 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
+Antonio Palmeira<br />
 YOURSTREET<br />
 YOURCITY<br />
 YOURCOUNTRY

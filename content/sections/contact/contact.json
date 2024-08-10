@@ -2,10 +2,7 @@
   "name": "You may reach out to me on:",
   "email": "antonio@palmeira.tech",
   "description": "You can find more about me and the projects I'm working on clicking the links below",
-  "image": {
-    "src": "../../images/logo.png",
-    "alt": "Palmeira Logo"
-  },
+  "image": {},
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true

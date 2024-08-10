@@ -18,7 +18,7 @@
       "description": "To make experimentation and innovation possible, build an environment and have tools in place where things can break, and, when it does, you'll be able mitigate the issues or quickly revert the changes to a safe version. For that to happen, automated tests, a version control system, observability and automation are indispensable.",
       "tags": [],
       "image": {
-        "src": "../../images/Think-Different.jpg",
+        "src": "../../images/lab.png",
         "alt": "Think Different",
         "linkTo": ""
       },
