@@ -24,7 +24,7 @@ module.exports = {
           usePathPrefixForArticles: false,
         },
         googleAnalytics: {
-          trackingId: "UA-140233648-1",
+          trackingId: "G-07R4E822M3",
           anonymize: true,
           environments: ["production"],
         },
