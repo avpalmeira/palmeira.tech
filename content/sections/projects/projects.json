@@ -2,8 +2,8 @@
   "projects": [
     {
       "visible": true,
-      "title": "1% Everyday",
-      "description": "Inspired by the Kaizen philosophy of continuously improving, I try to apply the \"improve at least 1% everyday\" to my projects and goals. Keeping a steady movement towards achieving my goals, even if it seems slow in the short term, it can achieve better and consistent results in the long term.",
+      "title": "1% Every Day",
+      "description": "Inspired by the Kaizen philosophy of continuously improving, I try to apply the \"improve at least 1% every day\" to my projects and goals. Keeping a steady movement towards achieving my goals, even if it seems slow in the short term, can achieve better and consistent results in the long term.",
       "tags": [],
       "image": {
         "src": "../../images/tortoise-and-hare.jpg",
@@ -15,7 +15,7 @@
     {
       "visible": true,
       "title": "Don't Be Afraid To Break Things",
-      "description": "To make experimentation and innovation possible, I aim to build environments and have tools and mechanisms, such as tests, automation and observability, in place in case when things break (and they mostly do) the changes can be quickly reverted to a safe version.",
+      "description": "To make experimentation and innovation possible, I aim to build environments and have tools and mechanisms, such as tests, automation, and observability, in place in case when things break (and they mostly do) the changes can be quickly reverted to a safe version.",
       "tags": [],
       "image": {
         "src": "../../images/lab.png",
