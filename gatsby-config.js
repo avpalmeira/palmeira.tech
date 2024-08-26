@@ -23,11 +23,6 @@ module.exports = {
           entityName: "Projects",
           usePathPrefixForArticles: false,
         },
-        googleAnalytics: {
-          trackingId: "G-07R4E822M3",
-          anonymize: true,
-          environments: ["production"],
-        },
       },
     },
   ],

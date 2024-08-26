@@ -5,7 +5,7 @@ imageAlt: "Antonio Palmeira"
 
 I’m a 32 years old software engineer from Brazil🇧🇷 and I’ve been building software for about 8 years of my life.
 
-As a software developer, there’s no part of the software development lifecycle that I don’t like to be involved in. Throughout the projects I’ve worked on, I’ve spent a good amount of time dealing with many aspects of developing a software product, from building user interfaces from scratch and validating features with stakeholders to ensuring software quality with automated tests and constant monitoring. Although I believe that my skills add more value to a product when they are aimed at <u>building a great user experience</u>.
+As a software developer, there’s no part of the software development lifecycle that I don’t like to be involved in. Throughout the projects I’ve worked on, I’ve spent a good amount of time dealing with many aspects of building and maintaining a software product, from creating user interfaces from scratch and validating features with stakeholders to ensuring software quality with automated tests and constant monitoring. Although I believe that my skills add more value to a product when they are aimed at <u>building a great user experience</u>.
 
 Creating software products that improve the quality of people’s lives and that can potentially bring real and meaningful innovation to the world is what I’m passionate about. My main areas of interest and where most of my ideas and effort are dedicated at the moment are:
 
